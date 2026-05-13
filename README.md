@@ -4,10 +4,8 @@
 Email Me 👉 ✉️ **shubhamkaundal2297941@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** 1.)Building real-world Data Analysis projects using SQL, Python, Excel, and Power BI<br> 2.)Working on business-focused data analytics projects using retail and e-commerce datasets<br> 3.)Creating interactive dashboards and data visualization projects for portfolio development<br>
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** 1.)Data Analytics and Business Intelligence projects<br> 2.)SQL, Power BI, and Python-based data analysis projects<br>3.)Open-source projects related to Data Science, Analytics, and Machine Learning<br>
-- 💬 **I'm Currently Learning** 1.)Advanced SQL for Data Analytics<br>2.)Power BI Dashboard Development and DAX<br>3.)Python libraries for Data Analysis such as Pandas, NumPy, and Matplotlib<br>4.)Data Cleaning, Exploratory Data Analysis (EDA), and Business Analytics<br>5.)Basics of Machine Learning and Predictive Analytics
+- 🌱 **I’m currently learning:** 1.)Advanced SQL for Data Analytics<br>2.)Power BI Dashboard Development and DAX<br>3.)Python libraries for Data Analysis such as Pandas, NumPy, and Matplotlib<br>4.)Data Cleaning, Exploratory Data Analysis (EDA), and Business Analytics<br>5.)Basics of Machine Learning and Predictive Analytics
+- 👯 **I’m looking to collaborate on:** 1.)Data Analytics and Business Intelligence projects<br> 2.)SQL, Power BI, and Python-based data analysis projects<br>3.)Open-source projects related to Data Science, Analytics, and Machine Learning<br>
 - 📫 **How to reach me:** shubhamkaundal2297941@gmail.com
 - ⚡ **Fun fact:** I Love to learn about every domain
 
